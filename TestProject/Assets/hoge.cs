@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class hoge : MonoBehaviour {
@@ -11,6 +11,6 @@ public class hoge : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         //hoge
-        print("hoge");
+        print("hogehoge");
 	}
 }
